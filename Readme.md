@@ -3,7 +3,7 @@ It is a static home page made using **HTML & CSS**.
 
 ### This is a great project to practice HTML & CSS.
 
-> ### The Screenshots of the site are attached below:- (1st part)
+> ### The Screenshots of the site are attached below:-
 
 ![Project-9 ScreenShot:](SS9.png "Developer Landing page")
 
