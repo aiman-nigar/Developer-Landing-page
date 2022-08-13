@@ -1,17 +1,10 @@
 # Project-09/15 
-It is a static home page made using **HTML & CSS**.
+It is a static home page made in **HTML & CSS**.
 
-### This is a great project to practice HTML & CSS.
+Time taken: 7 hrs
 
-> ### The Screenshots of the site are attached below:-
+> ### Link to the site: [Developer landing page](https://aim-developer-landing-page.netlify.app/)
+
+> ### The Screenshots of the site is attached below:-
 
 ![Project-9 ScreenShot:](SS9.png "Developer Landing page")
-
-
-![Project-9 ScreenShot:](SS91.png "Developer Landing page")
-
-![Project-9 ScreenShot:](SS92.png "Developer Landing page")
-
-![Project-9 ScreenShot:](SS93.png "Developer Landing page")
-
-![Project-9 ScreenShot:](SS94.png "Developer Landing page")
